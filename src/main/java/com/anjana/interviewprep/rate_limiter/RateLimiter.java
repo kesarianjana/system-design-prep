@@ -1,4 +1,4 @@
-package com.anjana.interviewprep.rate_limiter.leaky_bucket;
+package com.anjana.interviewprep.rate_limiter;
 
 public interface RateLimiter {
     boolean grantAccess();
